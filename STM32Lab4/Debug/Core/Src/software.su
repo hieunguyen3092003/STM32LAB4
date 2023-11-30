@@ -1,0 +1,4 @@
+software.c:9:6:led1test	8	static
+software.c:13:6:led2test	8	static
+software.c:17:6:led3test	8	static
+software.c:21:6:led4test	8	static
